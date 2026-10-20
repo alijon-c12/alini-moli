@@ -1,0 +1,19 @@
+# Maxfiy va muhit fayllari
+.env
+
+# Telethon session fayllari (akkauntga kirish ma'lumotlari)
+*.session
+*.session-journal
+
+# Python kesh fayllari
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual muhitlar
+venv/
+.venv/
+env/
+
+# Loglar
+*.log
